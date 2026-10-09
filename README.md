@@ -1,4 +1,4 @@
-## Hi there 👋
+## My day to day work is on Azure DevOps. Here is my collaboration graph so far 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="contrib-dark.svg">
