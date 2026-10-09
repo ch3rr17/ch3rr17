@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="contrib-dark.svg">
+  <img alt="Azure DevOps contribution calendar" src="contrib-light.svg">
+</picture>
+
 <!--
 **ch3rr17/ch3rr17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
