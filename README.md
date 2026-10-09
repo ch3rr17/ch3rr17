@@ -1,4 +1,4 @@
-## My day to day work is on Azure DevOps. Here is my collaboration graph so far 
+## My day to day work is on Azure DevOps. Here is my collaboration graph so far 2026. We strictly work on a monthly sprints with very specific focus on what goes out the door.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="contrib-dark.svg">
